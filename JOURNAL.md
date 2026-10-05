@@ -14,12 +14,20 @@
 
 ## Contents
 
-1. [2026-10-05 — Work session](#2026-10-05-work-session)
+1. [2026-10-05 — I have](#2026-10-05-i-have)
 
 ## Design
 
-### 2026-10-05 — Work session
+### 2026-10-05 — I have
 
 **2h**
+
+I have
+
+![Screenshot 2026-10-05 224056](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OZqZsfUeYKVZSBPjZNkgbHcmpHIp5HhR/d6202bfeb2b74a6807e56a6db9285c8b2dcb10c9306b272fe8555c6b6aa8e709.png)
+
+ wrapped up the entire schematic design, ERC validation, component footprint assignment, and physical PCB layout planning—everything is now staged and ready for board outline and track routing!
+
+![Screenshot 2026-10-05 223656](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OZqZsfUeYKVZSBPjZNkgbHcmpHIp5HhR/4285a8c1f7f02412a6b3aa4f3ebce48ea4958f6755d1650fcb01d207cc9624a4.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/f3276c9b-071f-431e-a91d-c86bc8e1157d/video.mp4)
