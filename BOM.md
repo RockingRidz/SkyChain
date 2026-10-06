@@ -14,19 +14,19 @@
 
 | Part Name | Description | Footprint / Package | Qty | Unit Cost (USD) | Unit Cost (INR) | Total Cost (USD) |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **ESP32-C3-DevKitM-1** | Main Microcontroller Module | Standard Pin Headers / Module | 1 | $2.50 | ₹210 | $2.50 |
-| **TP4056 IC** | LiPo Battery Charger IC | ESOP-8 | 1 | $0.25 | ₹21 | $0.25 |
-| **AMS1117-3.3** | 3.3V LDO Voltage Regulator | SOT-223 | 1 | $0.15 | ₹13 | $0.15 |
-| **Active Piezo Buzzer** | Audio Alert (Aircraft/Vehicle) | 3.3V–5V (12x9.5mm) | 1 | $0.35 | ₹30 | $0.35 |
-| **S8050 NPN Transistor** | Buzzer Driver Transistor | SOT-23 | 1 | $0.05 | ₹4 | $0.05 |
-| **USB Type-C Receptacle** | Power / Charging Input | USB 2.0 16-Pin | 1 | $0.20 | ₹17 | $0.20 |
-| **JST-PH Header** | LiPo Battery Connector | 2-Pin 2.0mm Pitch | 1 | $0.10 | ₹8 | $0.10 |
-| **0.96" OLED Display** | I2C Display Module | 4-Pin Header (128x64) | 1 | $1.80 | ₹150 | $1.80 |
-| **Tactile Push Buttons** | Reset & User Switch | 6x6mm SMD | 2 | $0.10 | ₹8 | $0.20 |
-| **5.1k Resistors** | USB-C CC Pull-downs | 0805 SMD | 2 | $0.02 | ₹2 | $0.04 |
-| **1.2k Resistor** | TP4056 Charge Set | 0805 SMD | 1 | $0.02 | ₹2 | $0.02 |
-| **1k Resistors** | AMS1117 Load & Buzzer Base | 0805 SMD | 2 | $0.02 | ₹2 | $0.04 |
-| **10uF Capacitors** | Input / Output Filtering | 0805 SMD | 2 | $0.05 | ₹4 | $0.10 |
-| **100nF Capacitors** | Bypass / Decoupling | 0805 SMD | 2 | $0.02 | ₹2 | $0.04 |
-| **Custom Printed Circuit Board** | Fabricated SkyChain PCB | 2-Layer FR4 (1.6mm) | 1 | $1.00 | ₹85 | $1.00 |
-| **Total Component Cost** | | | | | | **$6.84 / $65.00** |
+| **ESP32-C3-DevKitM-1** | Main Microcontroller Module | Standard Pin Headers / Module | 1 | $7.00 | ₹585 | $7.00 |
+| **0.96" OLED Display** | I2C Display Module | 4-Pin Header (128x64) | 1 | $5.00 | ₹418 | $5.00 |
+| **Custom Printed Circuit Board** | Fabricated SkyChain PCB | 2-Layer FR4 (1.6mm) | 1 | $4.00 | ₹334 | $4.00 |
+| **Active Piezo Buzzer** | Audio Alert (Aircraft/Vehicle) | 3.3V–5V (12x9.5mm) | 1 | $2.00 | ₹167 | $2.00 |
+| **TP4056 IC** | LiPo Battery Charger IC | ESOP-8 | 1 | $1.50 | ₹125 | $1.50 |
+| **AMS1117-3.3** | 3.3V LDO Voltage Regulator | SOT-223 | 1 | $1.50 | ₹125 | $1.50 |
+| **USB Type-C Receptacle** | Power / Charging Input | USB 2.0 16-Pin | 1 | $1.50 | ₹125 | $1.50 |
+| **S8050 NPN Transistor** | Buzzer Driver Transistor | SOT-23 | 1 | $1.00 | ₹84 | $1.00 |
+| **JST-PH Header** | LiPo Battery Connector | 2-Pin 2.0mm Pitch | 1 | $1.00 | ₹84 | $1.00 |
+| **Tactile Push Buttons** | Reset & User Switch | 6x6mm SMD | 2 | $0.50 | ₹42 | $1.00 |
+| **5.1k Resistors** | USB-C CC Pull-downs | 0805 SMD | 2 | $0.50 | ₹42 | $1.00 |
+| **1.2k Resistor** | TP4056 Charge Set | 0805 SMD | 1 | $1.00 | ₹84 | $1.00 |
+| **1k Resistors** | AMS1117 Load & Buzzer Base | 0805 SMD | 2 | $0.50 | ₹42 | $1.00 |
+| **10uF Capacitors** | Input / Output Filtering | 0805 SMD | 2 | $0.50 | ₹42 | $1.00 |
+| **100nF Capacitors** | Bypass / Decoupling | 0805 SMD | 2 | $0.50 | ₹42 | $1.00 |
+| **Total Component Cost** | | | | | | **$30.00 / $65.00**  [2,950 INR] |
