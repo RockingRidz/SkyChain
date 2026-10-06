@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-05 — I have](#2026-10-05-i-have)
-2. [2026-10-06 — Work session](#2026-10-06-work-session)
+2. [2026-10-06 — Hello!!](#2026-10-06-hello)
 
 ## Design
 
@@ -33,8 +33,18 @@ I have
 
 [Timelapse](https://lookout.hackclub.com/api/media/f3276c9b-071f-431e-a91d-c86bc8e1157d/video.mp4)
 
-### 2026-10-06 — Work session
+### 2026-10-06 — Hello!!
 
 **1.47h**
+
+Hello!!
+Today was a good session, I was able to route the whole PCB add a Buzzer, finish the BOM & READ Me.
+Problems:
+1. Clashing Of PCB Routes
+2. Formatting The Read Me I Used AI to write in that manner
+
+![FINALSCMSkyChain 1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OZqZsfUeYKVZSBPjZNkgbHcmpHIp5HhR/c682c3567ddd28692052fe1f7ed9495dc99b59e63dd0a49877782a6d986c8304.png)
+
+![FINALSCMSkyChain 2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OZqZsfUeYKVZSBPjZNkgbHcmpHIp5HhR/285b45da4ac5221dcc3016e888da1677e3852a615671f13bcdf0207d06132420.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/50d4ee7f-8511-4a04-8679-67255d3c651e/video.mp4)
