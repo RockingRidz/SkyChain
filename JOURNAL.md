@@ -16,7 +16,7 @@
 
 1. [2026-10-05 – I have](#2026-10-05-i-have)
 2. [2026-10-06 – Hello!!](#2026-10-06-hello)
-3. [2026-10-10 – Work session](#2026-10-10-work-session)
+3. [2026-10-10 – Hello!!!](#2026-10-10-hello)
 
 ## Design
 
@@ -50,8 +50,14 @@ Problems:
 
 [Timelapse](https://lookout.hackclub.com/api/media/50d4ee7f-8511-4a04-8679-67255d3c651e/video.mp4)
 
-### 2026-10-10 – Work session
+### 2026-10-10 – Hello!!!
 
 **2.6h**
+
+Hello!!!
+I finished the entire PCB 100% & I finished 80% of the Case
+Tomorrow I will be 100% Done with the project!!
+
+![Screenshot 2026-10-10 175257](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OZqZsfUeYKVZSBPjZNkgbHcmpHIp5HhR/45503bbbd899579470a214acce9749a18596e7edc036a4960264e0ac120c6a30.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/37a21327-2323-437c-a2c7-ffcac1d60815/video.mp4)
