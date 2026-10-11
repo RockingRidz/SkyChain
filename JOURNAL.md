@@ -18,7 +18,7 @@
 2. [2026-10-06 – Hello!!](#2026-10-06-hello)
 3. [2026-10-10 – Hello!!!](#2026-10-10-hello)
 4. [2026-10-10 – Hello, 90% Done!!!](#2026-10-10-hello-90-done)
-5. [2026-10-11 – Work session](#2026-10-11-work-session)
+5. [2026-10-11 – WERE DONE 100%!!!](#2026-10-11-were-done-100)
 
 ## Design
 
@@ -83,8 +83,12 @@ For Tommorow:
 
 [Timelapse](https://lookout.hackclub.com/api/media/326d5a1d-8d83-4dd4-a56b-baeb2d485edb/video.mp4)
 
-### 2026-10-11 – Work session
+### 2026-10-11 – WERE DONE 100%!!!
 
 **2.22h**
+
+WERE DONE 100%!!!
+
+![Screenshot 2026-10-11 140324](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OZqZsfUeYKVZSBPjZNkgbHcmpHIp5HhR/91bd4faad26a44228bc50a94189d2953f914d0c50ad9c83a17170f9b33693892.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/fc394aa3-8157-41fc-94a2-70bfb8ab8ef2/video.mp4)
