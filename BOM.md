@@ -26,7 +26,7 @@
 | [3D Printed Enclosure & Acrylic](https://robu.in/product/3d-printing-service1/) | Enclosure & Window Pane | 1 | $1.50 | $1.50 | [Robu.in](https://robu.in/product/3d-printing-service1/) |
 | [Acrylic Sheet](https://www.amazon.in/Fliptic-Acrylic-sheet-Transparent-painting/dp/B0G1Y5S9TC/ref=sr_1_2_sspa?crid=1M4MYG59F6ARF&dib=eyJ2IjoiMSJ9.YzYfJLbLl5BFa5HxpCjzRw67Bg7yfECnlVSGbpLs4BtDYQEFhx8ZWK3uKNt-tkwzwfm9AOFof1EDdUGuPft8HOe-4EPO7R_3Goxfvygtsbpo9bd92PtnAfgN6-aONAth4_DnSlJwUblLp1m4Np_uja-Iy1zrbudRgjdtqwxJwUTOc0fyEVxXmUljO7OPYxy9g90UjpfmJAwH0hKegULiBLdykyDBkEvnW7eu4AHp5ikig5AVbVOA55rQEfTfMdxfLQ9K_IRtdumH63fuk_WVExi0I31ON6VKxCe2RfYiO14.Smi4gyKYd1_XXCZ-ixpRLv-KaL1jSjXxQ6JAaPVP5no&dib_tag=se&keywords=Clear+Acrylic+sheet&qid=1791712988&sprefix=clear+acrylic+shee%2Caps%2C564&sr=8-2-spons&aref=XOOpiG8sde&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | For The Irregular Hole Covering | 1 | $2.00 | $2.00 | [Amazon.in](https://www.amazon.in/Fliptic-Acrylic-sheet-Transparent-painting/dp/B0G1Y5S9TC/ref=sr_1_2_sspa?crid=1M4MYG59F6ARF&dib=eyJ2IjoiMSJ9.YzYfJLbLl5BFa5HxpCjzRw67Bg7yfECnlVSGbpLs4BtDYQEFhx8ZWK3uKNt-tkwzwfm9AOFof1EDdUGuPft8HOe-4EPO7R_3Goxfvygtsbpo9bd92PtnAfgN6-aONAth4_DnSlJwUblLp1m4Np_uja-Iy1zrbudRgjdtqwxJwUTOc0fyEVxXmUljO7OPYxy9g90UjpfmJAwH0hKegULiBLdykyDBkEvnW7eu4AHp5ikig5AVbVOA55rQEfTfMdxfLQ9K_IRtdumH63fuk_WVExi0I31ON6VKxCe2RfYiO14.Smi4gyKYd1_XXCZ-ixpRLv-KaL1jSjXxQ6JAaPVP5no&dib_tag=se&keywords=Clear+Acrylic+sheet&qid=1791712988&sprefix=clear+acrylic+shee%2Caps%2C564&sr=8-2-spons&aref=XOOpiG8sde&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) |
 | **Parts subtotal** | — | — | — | **$32.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$32.00** | — |
+| **Tax & shipping** | — | — | — | **$1.00** | — |
+| **Total** | — | — | — | **$33.00** | — |
 
-**$2.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$3.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
