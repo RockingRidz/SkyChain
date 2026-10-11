@@ -25,7 +25,7 @@
 | SMD Capacitors | All Resistors (C1-C4) | 4 | $1.50 | $6.00 | — |
 | 3D Printed Enclosure & Acrylic | Enclosure & Window Pane | 1 | $2.00 | $2.00 | — |
 | **Parts subtotal** | — | — | — | **$49.50** | — |
-| **Tax & shipping** | — | — | — | **$10.00** | — |
-| **Total** | — | — | — | **$59.50** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$49.50** | — |
 
-**$29.50 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$19.50 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
