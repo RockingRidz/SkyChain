@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\Ridith\OneDrive\Documents\KeySlash\SkyChain\SkyChain-F_Cu.gbr'.
+Plotted to 'C:\Users\Ridith\OneDrive\Documents\KeySlash\SkyChain\SkyChain-B_Cu.gbr'.
+Plotted to 'C:\Users\Ridith\OneDrive\Documents\KeySlash\SkyChain\SkyChain-F_Paste.gbr'.
+Plotted to 'C:\Users\Ridith\OneDrive\Documents\KeySlash\SkyChain\SkyChain-B_Paste.gbr'.
+Plotted to 'C:\Users\Ridith\OneDrive\Documents\KeySlash\SkyChain\SkyChain-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Ridith\OneDrive\Documents\KeySlash\SkyChain\SkyChain-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Ridith\OneDrive\Documents\KeySlash\SkyChain\SkyChain-F_Mask.gbr'.
+Plotted to 'C:\Users\Ridith\OneDrive\Documents\KeySlash\SkyChain\SkyChain-B_Mask.gbr'.
+Plotted to 'C:\Users\Ridith\OneDrive\Documents\KeySlash\SkyChain\SkyChain-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Ridith\OneDrive\Documents\KeySlash\SkyChain\SkyChain-job.gbrjob'.
+Info: Done.
