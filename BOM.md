@@ -12,16 +12,9 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| Conn_01x04_Socket | Display / Peripheral Connector (J3) | 1 | $1.00 | $1.00 | — |
-| Conn_01x02_Socket | Battery Connector (J2) | 1 | $1.00 | $1.00 | — |
-| SW_Push | Momentary Tactile Buttons (SW1 SW2 SW3) | 3 | $1.50 | $4.50 | — |
-| Piezo Buzzer | Audio Buzzer (BZ1) | 1 | $1.50 | $1.50 | — |
-| NPN Transistor | S8050 Transistor (Q1) | 1 | $1.00 | $1.00 | — |
-| SMD Resistors | All Resistors (R1-R7) | 7 | $1.00 | $7.00 | — |
-| SMD Capacitors | All Capacitors (C1-C4) | 4 | $1.00 | $4.00 | — |
 | 3D Printed Enclosure & Acrylic | Enclosure & Window Pane | 1 | $2.00 | $2.00 | — |
-| **Parts subtotal** | — | — | — | **$22.00** | — |
+| **Parts subtotal** | — | — | — | **$2.00** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$22.00** | — |
+| **Total** | — | — | — | **$2.00** | — |
 
-$8.00 left of the tier's funding.
+$28.00 left of the tier's funding.
