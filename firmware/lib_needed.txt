@@ -1,0 +1,4 @@
+1. Adafruit GFX Library (for graphics)
+2. Adafruit SSD1306 (for the OLED display)
+3. ArduinoJson (version 6+, for parsing OpenSky API responses)
+4. ESP32 Core Board Package
