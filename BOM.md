@@ -10,4 +10,21 @@
 | --- | --- | --- |
 | Week 1 | Tier 1 | $30.00 |
 
-_No parts listed yet._
+| Component / Item | Description / Model | Qty | Estimated Cost |
+| :--- | :--- | :--- | :--- |
+| **Microcontroller (U3)** | ESP32-C3-DevKitM-1 | 1 | $6.00 |
+| **Battery Charger (U1)** | TP4056-42-ESOP8 LiPo Charger IC | 1 | $2.00 |
+| **Voltage Regulator (U2)** | AMS1117-3.3 LDO Voltage Regulator | 1 | $1.50 |
+| **USB Interface (J1)** | USB_C_Receptacle_USB2.0_16P | 1 | $2.00 |
+| **Display / Peripheral Connector (J3)** | Conn_01x04_Socket | 1 | $1.00 |
+| **Battery Connector (J2)** | Conn_01x02_Socket | 1 | $1.00 |
+| **Tactile Switches (SW1, SW2, SW3)** | SW_Push Momentary Tactile Buttons | 3 | $1.50 |
+| **Buzzer (BZ1)** | Piezo Buzzer | 1 | $1.50 |
+| **Transistor (Q1)** | NPN Transistor (e.g., S8050) | 1 | $1.00 |
+| **Resistors (R1, R2)** | 5.1kΩ SMD Resistors | 2 | $1.00 |
+| **Resistors (R3, R5)** | 1.2kΩ & 1kΩ SMD Resistors | 2 | $1.00 |
+| **Resistors (R4, R6, R7)** | 1kΩ & 100kΩ SMD Resistors | 3 | $1.50 |
+| **Capacitors (C1, C3)** | 10µF SMD Capacitors | 2 | $1.00 |
+| **Capacitors (C2, C4)** | 100nF SMD Capacitors | 2 | $1.00 |
+| **Enclosure & Acrylic** | 3D Printed Enclosure & Acrylic Window Pane | 1 set | $3.00 |
+| **Total Estimated Cost** | | | **$25.00** |
