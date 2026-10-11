@@ -12,9 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| TP4056-42-ESOP8 | Battery Charger IC (U1) | 1 | $2.00 | $2.00 | — |
-| AMS1117-3.3 | LDO Voltage Regulator (U2) | 1 | $1.50 | $1.50 | — |
-| USB_C_Receptacle_USB2.0_16P | USB Interface (J1) | 1 | $2.00 | $2.00 | — |
 | Conn_01x04_Socket | Display / Peripheral Connector (J3) | 1 | $1.00 | $1.00 | — |
 | Conn_01x02_Socket | Battery Connector (J2) | 1 | $1.00 | $1.00 | — |
 | SW_Push | Momentary Tactile Buttons (SW1 SW2 SW3) | 3 | $1.50 | $4.50 | — |
@@ -23,8 +20,8 @@
 | SMD Resistors | All Resistors (R1-R7) | 7 | $1.00 | $7.00 | — |
 | SMD Capacitors | All Capacitors (C1-C4) | 4 | $1.00 | $4.00 | — |
 | 3D Printed Enclosure & Acrylic | Enclosure & Window Pane | 1 | $2.00 | $2.00 | — |
-| **Parts subtotal** | — | — | — | **$27.50** | — |
+| **Parts subtotal** | — | — | — | **$22.00** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$27.50** | — |
+| **Total** | — | — | — | **$22.00** | — |
 
-$2.50 left of the tier's funding.
+$8.00 left of the tier's funding.
