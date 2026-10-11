@@ -37,3 +37,4 @@ Designing and routing the printed circuit board and 3D-printed enclosure has bee
 - **Optimized Passives**: SMD passive array for power decoupling, USB pull-downs, and robust circuit stability.
 - THIS WAS MY 3RD PCB DESIGN AND PROLLY THE MOST COMPLEX IVE MADE!!
   ![SkyChain PCB Render](images/pcb.png)
+  ![SkyChain CAD Render](images/scm.png)
