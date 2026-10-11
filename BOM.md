@@ -12,7 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| ESP32-C3-DevKitM-1 | Microcontroller (U3) | 1 | $13.50 | $13.50 | — |
 | TP4056-42-ESOP8 | Battery Charger IC (U1) | 1 | $2.00 | $2.00 | — |
 | AMS1117-3.3 | LDO Voltage Regulator (U2) | 1 | $1.50 | $1.50 | — |
 | USB_C_Receptacle_USB2.0_16P | USB Interface (J1) | 1 | $2.00 | $2.00 | — |
@@ -24,8 +23,8 @@
 | SMD Resistors | All Resistors (R1-R7) | 7 | $1.00 | $7.00 | — |
 | SMD Capacitors | All Capacitors (C1-C4) | 4 | $1.00 | $4.00 | — |
 | 3D Printed Enclosure & Acrylic | Enclosure & Window Pane | 1 | $2.00 | $2.00 | — |
-| **Parts subtotal** | — | — | — | **$41.00** | — |
+| **Parts subtotal** | — | — | — | **$27.50** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$41.00** | — |
+| **Total** | — | — | — | **$27.50** | — |
 
-**$11.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$2.50 left of the tier's funding.
