@@ -1,7 +1,7 @@
 # SkyChain
 
 SkyChain is a compact, wearable smart keychain designed to clip onto your belt, fit in your pocket, or go anywhere with you. Whenever you spot a plane flying overhead or want to check real-time flight telemetry, SkyChain delivers live aircraft tracking data directly to your OLED screen.
-![SkyChain CAD Render](images/Screenshot 2026-10-11 140324.png)
+![SkyChain CAD Render](images/cad.png)
 
 ---
 
@@ -36,4 +36,4 @@ Designing and routing the printed circuit board and 3D-printed enclosure has bee
 - **Enclosure Geometry**: Custom CAD model featuring a 2.0 mm wall enclosure, reinforced keychain mount, and a recessed internal ledge for a flush-fit acrylic window.
 - **Optimized Passives**: SMD passive array for power decoupling, USB pull-downs, and robust circuit stability.
 - THIS WAS MY 3RD PCB DESIGN AND PROLLY THE MOST COMPLEX IVE MADE!!
-  ![SkyChain PCB Render](images/Screenshot 2026-10-11 140233.png)
+  ![SkyChain PCB Render](images/pcb.png)
