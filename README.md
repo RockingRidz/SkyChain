@@ -37,4 +37,4 @@ Designing and routing the SkyChain printed circuit board has been one of the mos
 
 ---
 
-*Built for Hack Club / Hack Life — excited to complete the hardware assembly and unlock the 3D printer reward!*
+
