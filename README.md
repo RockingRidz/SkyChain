@@ -1,40 +1,39 @@
 # SkyChain
 
-SkyChain is a compact, wearable smart keychain designed to clip onto your belt, fit in your pocket, or go anywhere with you. Whenever you spot a plane flying overhead or a vessel nearby and wonder where it's heading, SkyChain gives you real-time flight telemetry directly on your wrist or belt.
+SkyChain is a compact, wearable smart keychain designed to clip onto your belt, fit in your pocket, or go anywhere with you. Whenever you spot a plane flying overhead or want to check real-time flight telemetry, SkyChain delivers live aircraft tracking data directly to your OLED screen.
+![SkyChain CAD Render](images/Screenshot 2026-10-11 140324.png)
 
 ---
 
-##  Overview & How It Works
+## Overview & How It Works
 
 SkyChain fetches live overhead tracking data via the **OpenSky Network API** to give you real-time details about aircraft above you:
 
+- **Flight Callsign & Identification**
+- **Country of Origin**
 - **Altitude & Flight Height**
-- **Ground Speed**
-- **Flight Origin & Destination**
 
-Every time SkyChain detects a nearby aircraft or tracks a target overhead, it triggers an acoustic haptic alert via an onboard buzzer to let you know new telemetry is ready to view.
+Every time SkyChain queries the OpenSky API or receives updated telemetry, it updates its onboard display to show current flight tracking data.
 
 ---
 
-##  Core Features
+## Core Features
 
-- **Real-Time Aircraft Tracking**: Connects via OpenSky API for live location, speed, height, and route metrics.
-- **Haptic & Audio Alerts**: Transistor-driven piezo buzzer triggers instant audio feedback upon detection.
-- **Visual Display**: Integrated high-contrast OLED screen for displaying clear flight stats.
+- **Real-Time Flight Tracking**: Connects via Wi-Fi to the OpenSky REST API for live aircraft callsigns, countries, and altitude metrics.
+- **Interactive Multi-Function UI**: Controlled via a 2-button tactile layout supporting single clicks, double-clicks, and long-presses to navigate menus.
+- **Visual Display**: Integrated high-contrast 128x64 SSD1306 OLED screen for displaying clear flight stats and system menus.
 - **Autonomous Battery Management**: Onboard USB-C charging and LiPo battery regulation for untethered daily wear.
-- **Compact Keychain Form Factor**: Portable, lightweight hardware layout designed for EDC (Everyday Carry).
+- **Compact Keychain Form Factor**: Portable, lightweight hardware layout designed for everyday carry with an integrated spline window and acrylic viewing pane.
 
 ---
 
-##  Custom PCB Design
+## Custom Hardware Design
 
-Designing and routing the SkyChain printed circuit board has been one of the most exciting and complex hardware challenges yet:
+Designing and routing the printed circuit board and 3D-printed enclosure has been an exciting hardware challenge:
 
-- **Microcontroller Core**: ESP32 module managing Wi-Fi requests, display driving, and alert logic.
-- **Power System**: TP4056 lithium battery charger paired with an AMS1117 3.3V low-dropout regulator and USB-C power delivery.
-- **Transistor Switching**: S8050 NPN transistor driver circuit dedicated to buffering high-decibel alert pulses to the active buzzer.
-- **Optimized Passives**: 0805 SMD passive array for impedance matching, USB CC pull-downs, and power decoupling.
-
----
-
-
+- **Microcontroller Core**: ESP32 module managing Wi-Fi requests, display driving, and button debounce logic.
+- **Power System**: Lithium battery charging paired with a low-dropout regulator and USB-C power delivery.
+- **Enclosure Geometry**: Custom CAD model featuring a 2.0 mm wall enclosure, reinforced keychain mount, and a recessed internal ledge for a flush-fit acrylic window.
+- **Optimized Passives**: SMD passive array for power decoupling, USB pull-downs, and robust circuit stability.
+- THIS WAS MY 3RD PCB DESIGN AND PROLLY THE MOST COMPLEX IVE MADE!!
+  ![SkyChain PCB Render](images/Screenshot 2026-10-11 140233.png)
