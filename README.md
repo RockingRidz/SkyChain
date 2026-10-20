@@ -3,6 +3,24 @@
 SkyChain is a compact, wearable smart keychain designed to clip onto your belt, fit in your pocket, or go anywhere with you. Whenever you spot a plane flying overhead or want to check real-time flight telemetry, SkyChain delivers live aircraft tracking data directly to your OLED screen.
 ![SkyChain CAD Render](images/cad.png)
 
+## Bill of Materials (BOM)
+
+| Part | Description | Qty | Price |
+| :--- | :--- | :---: | :--- |
+| ESP32-C3-DevKitM-1 | Microcontroller (U3) | 1 | \$10.00 |
+| TP4056-42-ESOP8 | Battery Charger IC (U1) | 1 | \$2.00 |
+| AMS1117-3.3 | LDO Voltage Regulator (U2) | 1 | \$1.50 |
+| USB_C_Receptacle_USB2.0_16P | USB Interface (J1) | 1 | \$2.00 |
+| Conn_01x04_Socket | Display Connector (J3) | 1 | \$1.00 |
+| Conn_01x02_Socket | Battery Connector (J2) | 1 | \$1.00 |
+| SW_Push | Buttons (SW1-SW3) | 3 | \$0.50 |
+| Piezo Buzzer | Audio Buzzer (BZ1) | 1 | \$1.50 |
+| NPN Transistor | S8050 Transistor (Q1) | 1 | \$1.00 |
+| SMD Resistors | Resistors (R1-R7) | 1 | \$4.00 |
+| SMD Capacitors | Capacitors (C1-C4) | 1 | \$3.00 |
+| 3D Printed / Acrylic | Enclosure & Window | 1 | \$1.50 |
+| **Total** | | | **\$30.00** |
+
 ---
 
 ## Overview & How It Works
