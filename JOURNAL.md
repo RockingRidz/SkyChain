@@ -16,7 +16,7 @@
 
 1. [2026-10-05 – In this initial session, I set up the foundational circuit schematic and established the physical component layout for the board. The primary goal was to map out all component placements and prepare t](#2026-10-05-in-this-initial-session-i-set-up-the-foundational)
 2. [2026-10-06 – During this session I focused on full PCB trace routing and added an onboard buzzer for audio feedback. I also initialized the main project documentation and constructed the bom.csv.](#2026-10-06-during-this-session-i-focused-on-full-pcb-trace-r)
-3. [2026-10-10 – Hello!!!](#2026-10-10-hello)
+3. [2026-10-10 – This entry focused on fixing layout errors flagged by design checks and starting the physical housing model. I brought the 3D enclosure design to 80% completion and shared an update reel showing curre](#2026-10-10-this-entry-focused-on-fixing-layout-errors-flagge)
 4. [2026-10-10 – Hello, 90% Done!!!](#2026-10-10-hello-90-done)
 5. [2026-10-11 – WERE DONE 100%!!!](#2026-10-11-were-done-100)
 6. [2026-10-11 – Hello!!! I did one final review for everything all wires all CAD things and I can say that I am done](#2026-10-11-hello-i-did-one-final-review-for-everything-all-w)
@@ -64,13 +64,19 @@ During this session I focused on full PCB trace routing and added an onboard buz
 
 [Timelapse](https://lookout.hackclub.com/api/media/50d4ee7f-8511-4a04-8679-67255d3c651e/video.mp4)
 
-### 2026-10-10 – Hello!!!
+### 2026-10-10 – This entry focused on fixing layout errors flagged by design checks and starting the physical housing model. I brought the 3D enclosure design to 80% completion and shared an update reel showing curre
 
 **2.6h**
 
-Hello!!!
-I finished the entire PCB 100% & I finished 80% of the Case
-Tomorrow I will be 100% Done with the project!!
+This entry focused on fixing layout errors flagged by design checks and starting the physical housing model. I brought the 3D enclosure design to 80% completion and shared an update reel showing current progress.
+
+* Cleared netlist mismatch errors in DRC
+* Modeled the main box housing with cutouts for  ports.
+* Designed internal support alignment rails to keep the PCB and OLED screen fixed in position.
+* Posted a progress reel demonstrating the 80% finished hardware case design.
+* Solved missing pad assignment errors on footprint symbols. (KICAD WAS ANNOYING)
+* Worked around CAD wall-thickness limitations to ensure the box remains printable without supports.
+* Plan to design the top lid and finish the remaining 20% of the enclosure design for tommorow.
 
 ![Screenshot 2026-10-10 175257](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OZqZsfUeYKVZSBPjZNkgbHcmpHIp5HhR/45503bbbd899579470a214acce9749a18596e7edc036a4960264e0ac120c6a30.png)
 
