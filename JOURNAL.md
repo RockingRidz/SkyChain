@@ -18,7 +18,7 @@
 2. [2026-10-06 – During this session I focused on full PCB trace routing and added an onboard buzzer for audio feedback. I also initialized the main project documentation and constructed the bom.csv.](#2026-10-06-during-this-session-i-focused-on-full-pcb-trace-r)
 3. [2026-10-10 – This entry focused on fixing layout errors flagged by design checks and starting the physical housing model. I brought the 3D enclosure design to 80% completion and shared an update reel showing curre](#2026-10-10-this-entry-focused-on-fixing-layout-errors-flagge)
 4. [2026-10-10 – This session was spent refining the PCB layout details and pushing the 3D housing design near completion. I worked through the structural features of the shell while prepping for repository organizati](#2026-10-10-this-session-was-spent-refining-the-pcb-layout-de)
-5. [2026-10-11 – WERE DONE 100%!!!](#2026-10-11-were-done-100)
+5. [2026-10-11 – In this entry, I completed the remaining CAD work to bring the 3D enclosure to 100% completion. I verified all physical alignments.](#2026-10-11-in-this-entry-i-completed-the-remaining-cad-work-)
 6. [2026-10-11 – Hello!!! I did one final review for everything all wires all CAD things and I can say that I am done](#2026-10-11-hello-i-did-one-final-review-for-everything-all-w)
 
 ## Design
@@ -97,11 +97,15 @@ This session was spent refining the PCB layout details and pushing the 3D housin
 
 [Timelapse](https://lookout.hackclub.com/api/media/326d5a1d-8d83-4dd4-a56b-baeb2d485edb/video.mp4)
 
-### 2026-10-11 – WERE DONE 100%!!!
+### 2026-10-11 – In this entry, I completed the remaining CAD work to bring the 3D enclosure to 100% completion. I verified all physical alignments.
 
 **2.22h**
 
-WERE DONE 100%!!!
+In this entry, I completed the remaining CAD work to bring the 3D enclosure to 100% completion. I verified all physical alignments.
+* Verified physical clearances between internal chassis walls and PCB component heights.
+* Confirmed that thumbstick movement range and button travel remains perfect by the top casing.
+* I switched the lid mechanism to magnetic tape
+* Corrected slight misalignment between the OLED screen window cutout
 
 ![Screenshot 2026-10-11 140324](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OZqZsfUeYKVZSBPjZNkgbHcmpHIp5HhR/91bd4faad26a44228bc50a94189d2953f914d0c50ad9c83a17170f9b33693892.png)
 
