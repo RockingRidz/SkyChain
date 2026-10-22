@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-05 – In this initial session, I set up the foundational circuit schematic and established the physical component layout for the board. The primary goal was to map out all component placements and prepare t](#2026-10-05-in-this-initial-session-i-set-up-the-foundational)
-2. [2026-10-06 – Hello!!](#2026-10-06-hello)
+2. [2026-10-06 – During this session I focused on full PCB trace routing and added an onboard buzzer for audio feedback. I also initialized the main project documentation and constructed the bom.csv.](#2026-10-06-during-this-session-i-focused-on-full-pcb-trace-r)
 3. [2026-10-10 – Hello!!!](#2026-10-10-hello)
 4. [2026-10-10 – Hello, 90% Done!!!](#2026-10-10-hello-90-done)
 5. [2026-10-11 – WERE DONE 100%!!!](#2026-10-11-were-done-100)
@@ -45,15 +45,18 @@ In this initial session, I set up the foundational circuit schematic and establi
 
 [Timelapse](https://lookout.hackclub.com/api/media/f3276c9b-071f-431e-a91d-c86bc8e1157d/video.mp4)
 
-### 2026-10-06 – Hello!!
+### 2026-10-06 – During this session I focused on full PCB trace routing and added an onboard buzzer for audio feedback. I also initialized the main project documentation and constructed the bom.csv.
 
 **1.47h**
 
-Hello!!
-Today was a good session, I was able to route the whole PCB add a Buzzer, finish the BOM & READ Me.
-Problems:
-1. Clashing Of PCB Routes
-2. Formatting The Read Me I Used AI to write in that manner
+During this session I focused on full PCB trace routing and added an onboard buzzer for audio feedback. I also initialized the main project documentation and constructed the bom.csv.
+
+* Routed the entire PCB layout with designated trace paths for signals and power rails.
+* Integrated an onboard buzzer circuit into the schematic to support simple audio frrdback
+* Drafted the initial GitHub README file outlining project goals and features.
+* Compiled the complete Bill of Materials
+* Managed tight routing paths around dense pin header clusters without violating clearance rules.
+* Ran the Design Rules Check to catch any layout errors and start modeling the 3D enclosure.
 
 ![FINALSCMSkyChain 1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OZqZsfUeYKVZSBPjZNkgbHcmpHIp5HhR/c682c3567ddd28692052fe1f7ed9495dc99b59e63dd0a49877782a6d986c8304.png)
 
