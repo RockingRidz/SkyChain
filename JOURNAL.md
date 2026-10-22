@@ -17,7 +17,7 @@
 1. [2026-10-05 – In this initial session, I set up the foundational circuit schematic and established the physical component layout for the board. The primary goal was to map out all component placements and prepare t](#2026-10-05-in-this-initial-session-i-set-up-the-foundational)
 2. [2026-10-06 – During this session I focused on full PCB trace routing and added an onboard buzzer for audio feedback. I also initialized the main project documentation and constructed the bom.csv.](#2026-10-06-during-this-session-i-focused-on-full-pcb-trace-r)
 3. [2026-10-10 – This entry focused on fixing layout errors flagged by design checks and starting the physical housing model. I brought the 3D enclosure design to 80% completion and shared an update reel showing curre](#2026-10-10-this-entry-focused-on-fixing-layout-errors-flagge)
-4. [2026-10-10 – Hello, 90% Done!!!](#2026-10-10-hello-90-done)
+4. [2026-10-10 – This session was spent refining the PCB layout details and pushing the 3D housing design near completion. I worked through the structural features of the shell while prepping for repository organizati](#2026-10-10-this-session-was-spent-refining-the-pcb-layout-de)
 5. [2026-10-11 – WERE DONE 100%!!!](#2026-10-11-were-done-100)
 6. [2026-10-11 – Hello!!! I did one final review for everything all wires all CAD things and I can say that I am done](#2026-10-11-hello-i-did-one-final-review-for-everything-all-w)
 
@@ -82,20 +82,16 @@ This entry focused on fixing layout errors flagged by design checks and starting
 
 [Timelapse](https://lookout.hackclub.com/api/media/37a21327-2323-437c-a2c7-ffcac1d60815/video.mp4)
 
-### 2026-10-10 – Hello, 90% Done!!!
+### 2026-10-10 – This session was spent refining the PCB layout details and pushing the 3D housing design near completion. I worked through the structural features of the shell while prepping for repository organizati
 
 **1.72h**
 
-Hello, 90% Done!!!
+This session was spent refining the PCB layout details and pushing the 3D housing design near completion. I worked through the structural features of the shell while prepping for repository organization.
 
-1. Edits To the pcb
-2. Almost Done With the 3D Design
-
-For Tommorow:
-1. Finish CAD
-2. One Final Check
-3. Github
-4. Submit!!!!
+* Advanced the 3D CAD model to 90% completion by adding the lid
+* Prepped repository file structures for final documentation
+* Addressed minor clearance tight spots between internal components and case walls.
+* Fine-tuned port cutouts to ensure smooth access for USB charging and headphone cables.
 
 ![Screenshot 2026-10-10 233818](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OZqZsfUeYKVZSBPjZNkgbHcmpHIp5HhR/06a359c3bfab42e3fcebb312fd4d7cd149207d47392929347da87b386e45f1f1.png)
 
