@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-11T10:11:22.084Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuv3c9td0d4301smn5wbxmmh). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > SkyChain is a custom-designed, compact PCB shaped like a keychain that tracks live aircraft flying overhead. Powered by an ESP32 micro-controller and a  OLED display, the board connects to Wi-Fi to pull real-time flight data (flight number, altitude, origin, and destination) from the OpenSky API. The PCB features an integrated LiPo battery management system with a USB-C charging, a 3.3V voltage regulator, custom routing for I2C display communication, tactile user control buttons, and an integrated mounting hole for a keyring.
 
@@ -14,7 +14,7 @@
 
 ## Contents
 
-1. [2026-10-05 – I have](#2026-10-05-i-have)
+1. [2026-10-05 – In this initial session, I set up the foundational circuit schematic and established the physical component layout for the board. The primary goal was to map out all component placements and prepare t](#2026-10-05-in-this-initial-session-i-set-up-the-foundational)
 2. [2026-10-06 – Hello!!](#2026-10-06-hello)
 3. [2026-10-10 – Hello!!!](#2026-10-10-hello)
 4. [2026-10-10 – Hello, 90% Done!!!](#2026-10-10-hello-90-done)
@@ -23,11 +23,19 @@
 
 ## Design
 
-### 2026-10-05 – I have
+### 2026-10-05 – In this initial session, I set up the foundational circuit schematic and established the physical component layout for the board. The primary goal was to map out all component placements and prepare t
 
 **2h**
 
-I have
+In this initial session, I set up the foundational circuit schematic and established the physical component layout for the board. The primary goal was to map out all component placements and prepare the board workspace for routing.
+
+* Created the core schematic wiring for the microcontroller, display, buttons.
+* Configured pin assignmentss
+* Placed all component footprints onto the PCB canvas to establish board dimensions.
+* Arranged modules to align external connectors with the planned enclosure boundaries.
+* Navigated initial spatial constraints
+* Handled unrouted net overlaps while grouping related functional modules together.
+* Plan to begin complete trace routing across all board layers and finalize peripheral component choices.
 
 ![Screenshot 2026-10-05 224056](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OZqZsfUeYKVZSBPjZNkgbHcmpHIp5HhR/d6202bfeb2b74a6807e56a6db9285c8b2dcb10c9306b272fe8555c6b6aa8e709.png)
 

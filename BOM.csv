@@ -1,14 +1,15 @@
-Part,Description,Quantity,Price
-ESP32-C3-DevKitM-1,Microcontroller (U3),1,$10.00
-TP4056-42-ESOP8,Battery Charger IC (U1),1,$2.00
-AMS1117-3.3,LDO Voltage Regulator (U2),1,$1.50
-USB_C_Receptacle_USB2.0_16P,USB Interface (J1),1,$2.00
-Conn_01x04_Socket,Display / Peripheral Connector (J3),1,$1.00
-Conn_01x02_Socket,Battery Connector (J2),1,$1.00
-SW_Push,Momentary Tactile Buttons (SW1 SW2 SW3),3,$0.50
-Piezo Buzzer,Audio Buzzer (BZ1),1,$1.50
-NPN Transistor,S8050 Transistor (Q1),1,$1.00
-SMD Resistors,All Resistors (R1-R7),1,$4.00
-SMD Capacitors,All Capacitors (C1-C4),1,$3.00
-3D Printed Enclosure & Acrylic,Enclosure & Window Pane,1,$1.50
-Total Estimated Cost,,,$30.00
+Item,Qty,Supplier,Cost/item,Total Cost,link
+ESP32-C3-DevKitM-1,1,Robu.in,$10.00,$10.00,https://robu.in/product/espressif-esp32-c3/
+TP4056-42-ESOP8,1,Robu.in,$2.00,$2.00,https://robu.in/product/tp4056-1a-lipo-battery-charging-board-micro-usb-with-current-protection/
+AMS1117-3.3,1,Robu.in,$1.50,$1.50,https://robu.in/product/ams1117-3-3-advanced-monolithic-systems-3-3v-1a-fixed-output-ldo-linear-voltage-regulator-4-pin-sot-223/
+USB_C_Receptacle_USB2.0_16P,1,Robu.in,$2.00,$2.00,https://robu.in/product/usb-3-1-type-c-female-jack-socket-connector/
+Conn_01x04_Socket,1,Robu.in,$1.00,$1.00,https://robu.in/product/4-pin-female-11mm-tall-stackable-header-connector-for-arduino-5pcs/
+Conn_01x02_Socket,1,Robu.in,$1.00,$1.00,https://robu.in/product/jst-xh-2-54mm-2-pin-female-housing-connector/
+SW_Push,3,Amazon.in,$0.50,$1.50,https://www.amazon.in/Tactile-Button-Momentary-Electronics-Projects/dp/B0HC4TQFMG/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.n6CATbtLFe3ISf9z700aBo_iUcK-pDfxPXc4Q7FCQX2tp92U-n8UOuHgXg8NQg64hxiGRnoYzzN_wi4W-l8eHZ-8aGLhJvyyR5QDRzyjwvIGIg6HAUOcq3VeHpERkJLQWRC33tH4v5cNywtUCcqkr9kLJ0xpyfbDaRNmEIMfJvlO9UfMOscDgOBFU0eYaL-MJoTjXbap7CPWRw26wImvno9CyYvZm9qvkp4jU6JcxLpraJ3IJdK0ezHAd852efJY7jZo3P6q1FLEMs01UZgc61AJNNUZMjCFWidcE6ISjF8.VclEpbORL0GkVOvzlF0Wu21R5CCfnXhEVcfQMBX6hH8&dib_tag=se&keywords=tactile+push+button+switch&qid=1791712109&sr=8-1-spons&aref=sEdlYPmXGm&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+Piezo Buzzer,1,Robu.in,$1.50,$1.50,https://robu.in/product/1-month-warranty-1248/
+NPN Transistor,1,Robu.in,$1.00,$1.00,https://robu.in/product/s8050range160-300-jcet-25v-625mw-160500ma1v-500ma-npn-to-92-3-bipolar-bjt-rohs/
+SMD Resistors,1,Robu.in,$4.00,$4.00,https://robu.in/product/10k-ohm-1-4w-0805-surface-mount-chip-resistor-pack-of-10/
+SMD Capacitors,1,Robu.in,$3.00,$3.00,https://robu.in/product/0805b106k160nt-fh-16v-10uf-x7r%c2%b110-0805-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/
+3D Printed Enclosure & Acrylic,1,Robu.in,$1.50,$1.50,https://robu.in/product/3d-printing-service1/
+Acrylic Sheet,1,Amazon.in,$2.00,$2.00,https://www.amazon.in/Fliptic-Acrylic-sheet-Transparent-painting/dp/B0G1Y5S9TC/ref=sr_1_2_sspa?crid=1M4MYG59F6ARF&dib=eyJ2IjoiMSJ9.YzYfJLbLl5BFa5HxpCjzRw67Bg7yfECnlVSGbpLs4BtDYQEFhx8ZWK3uKNt-tkwzwfm9AOFof1EDdUGuPft8HOe-4EPO7R_3Goxfvygtsbpo9bd92PtnAfgN6-aONAth4_DnSlJwUblLp1m4Np_uja-Iy1zrbudRgjdtqwxJwUTOc0fyEVxXmUljO7OPYxy9g90UjpfmJAwH0hKegULiBLdykyDBkEvnW7eu4AHp5ikig5AVbVOA55rQEfTfMdxfLQ9K_IRtdumH63fuk_WVExi0I31ON6VKxCe2RfYiO14.Smi4gyKYd1_XXCZ-ixpRLv-KaL1jSjXxQ6JAaPVP5no&dib_tag=se&keywords=Clear+Acrylic+sheet&qid=1791712988&sprefix=clear+acrylic+shee%2Caps%2C564&sr=8-2-spons&aref=XOOpiG8sde&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+Estimated total shipping,1,,,$1.00,
