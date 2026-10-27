@@ -22,7 +22,7 @@ SkyChain is a compact, wearable smart keychain designed to clip onto your belt, 
 | **Total** | | | **\$30.00** |
 
 ---
-
+![SkyChain CAD Render](images/assembled.png)
 ## Overview & How It Works
 
 SkyChain fetches live overhead tracking data via the **OpenSky Network API** to give you real-time details about aircraft above you:
