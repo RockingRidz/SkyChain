@@ -54,5 +54,6 @@ Designing and routing the printed circuit board and 3D-printed enclosure has bee
 - **Enclosure Geometry**: Custom CAD model featuring a 2.0 mm wall enclosure, reinforced keychain mount, and a recessed internal ledge for a flush-fit acrylic window.
 - **Optimized Passives**: SMD passive array for power decoupling, USB pull-downs, and robust circuit stability.
 - THIS WAS MY 3RD PCB DESIGN AND PROLLY THE MOST COMPLEX IVE MADE!!
+- ![SkyChain CAD Render](images/3dpcb.png)
   ![SkyChain PCB Render](images/pcb.png)
   ![SkyChain CAD Render](images/scm.png)
