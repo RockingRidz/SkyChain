@@ -1,8 +1,11 @@
 ** Drc report for SkyChain.kicad_pcb **
-** Created on 2026-10-10T13:03:50 **
-** Report includes: Errors, Warnings **
+** Created on 2026-11-15T16:29:18 **
+** Report includes: Errors, Warnings, Exclusions **
 
-** Found 0 DRC violations **
+** Found 1 DRC violations **
+[lib_footprint_mismatch]: Footprint 'USB_C_Receptacle_HRO_TYPE-C-31-M-12' does not match copy in library 'Connector_USB'
+    Local override; warning
+    @(169.1800 mm, 115.8500 mm): Footprint J1
 
 ** Found 0 unconnected pads **
 

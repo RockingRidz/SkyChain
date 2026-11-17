@@ -531,7 +531,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "SkyChain.stl",
+      "step": "SkyChain.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

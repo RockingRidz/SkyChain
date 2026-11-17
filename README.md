@@ -1,5 +1,15 @@
 # SkyChain
 
+## Current project files
+
+- [KiCad project](pcb/SkyChain.kicad_pro), [schematic](pcb/SkyChain.kicad_sch), and [PCB](pcb/SkyChain.kicad_pcb)
+- [Current Gerbers and drill files](production/gerbers.zip) — the single fabrication ZIP
+- [Firmware](firmware/firmware.ino) — buttons on GPIO10 and GPIO3
+- [Editable enclosure sources and STL files](cad/)
+- [Revision details and validation limits](REVISION_NOTES.md)
+
+**Enclosure fit remains unverified:** the existing case needs USB-opening clearance review before printing. CAD files have been preserved, not certified for the revised connector position. Older images below show the previous revision.
+
 SkyChain is a compact, wearable smart keychain designed to clip onto your belt, fit in your pocket, or go anywhere with you. Whenever you spot a plane flying overhead or want to check real-time flight telemetry, SkyChain delivers live aircraft tracking data directly to your OLED screen.
 ![SkyChain CAD Render](images/cad.png)
 
@@ -57,3 +67,4 @@ Designing and routing the printed circuit board and 3D-printed enclosure has bee
 - ![SkyChain CAD Render](images/3dpcb.png)
   ![SkyChain PCB Render](images/pcb.png)
   ![SkyChain CAD Render](images/scm.png)
+

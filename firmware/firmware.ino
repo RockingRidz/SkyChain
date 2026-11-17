@@ -11,8 +11,8 @@
 #define OLED_RESET -1
 #define SCREEN_ADDRESS 0x3C
 
-#define BUTTON_1_PIN 12
-#define BUTTON_2_PIN 13
+#define BUTTON_1_PIN 10  // SW2 on the revised PCB
+#define BUTTON_2_PIN 3   // SW3
 
 #define DEBOUNCE_DELAY 50
 #define LONG_PRESS_TIME 800
@@ -290,3 +290,4 @@ void drawSettings() {
 
   display.display();
 }
+
